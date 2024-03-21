@@ -15,6 +15,8 @@ List of links, videos and things to help with Open Source and Application Integr
 
 [Scaling serverless data processing with Amazon Kinesis and Apache Kafka](https://www.youtube.com/watch?v=ZYSOwyCxqJ8) - In this AWS re:Invent 2023 session, explore how to build scalable data processing applications using AWS Lambda. Learn practical insights into integrating Lambda with Amazon Kinesis and Apache Kafka using their event-driven models for real-time data streaming and processing.
 
+[Connecting to Salesforce using EventBridge Pipes and Kafka](https://www.youtube.com/watch?v=QcPIok3X4Ag&list=PLJo-rJlep0EBdcNkQM7xBkpahnrtk7qbe&index=9) - Serverless Office Hours with Solutions Architect, Aniket Bulbule, Product Manager, Nick Smit, and Developer Advocate, Julian Wood, to talk about connecting Salesforce to your AWS applications. See how you can use API Destinations to manage and control connectivity to Salesforce. Discover how EventBridge Pipes allows you to more easily poll data from services like Kafka and how you can use Lambda to transform Kafka messages to the Salesforce schema. Learn how to receive Salesforce events directly onto your EventBridge event bus. 
+
 ## Blogs 
 [Building event-driven architectures with Amazon MSK and Amazon EventBridge Kafka Connector](https://aws.amazon.com/blogs/big-data/build-event-driven-architectures-with-amazon-msk-and-amazon-eventbridge/) - AWS Big Data Blog by Florian Mair and Benjamin Meyer
 
